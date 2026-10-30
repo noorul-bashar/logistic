@@ -1,0 +1,16 @@
+PortID,PortName,Country,HandlingFee_USD,Capacity_TEU,Latitude,Longitude
+P01,Port of Shanghai,China,850,45000000,31.2304,121.4737
+P02,Port of Shenzhen,China,800,30000000,22.5431,114.0579
+P03,Port of Los Angeles,United States,1500,10000000,33.7432,-118.2673
+P04,Port of Long Beach,United States,1450,9000000,33.7701,-118.1937
+P05,Port of Rotterdam,Netherlands,1100,15000000,51.9244,4.4777
+P06,Port of Hamburg,Germany,1200,9000000,53.5511,9.9937
+P07,Port of Da Nang,Vietnam,550,2000000,16.0544,108.2022
+P08,Port of Ho Chi Minh,Vietnam,600,7000000,10.8231,106.6297
+P09,Port of Singapore,Singapore,750,37000000,1.3521,103.8198
+P10,Port of Tokyo,Japan,1000,5000000,35.6762,139.6503
+P11,Port of Hamburg,Germany,1200,9000000,53.5511,9.9937
+P12,Port of Vancouver,Canada,1300,4000000,49.2827,-123.1207
+P13,Port of Santos,Brazil,950,4500000,-23.9608,-46.3331
+P14,Port of Felixstowe,United Kingdom,1050,4000000,51.9632,1.3512
+P15,Port of Antwerp,Belgium,1080,12000000,51.2194,4.4025

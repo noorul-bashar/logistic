@@ -1,0 +1,13 @@
+HSCode,Description,OriginCountry,DestinationCountry,StandardTariffRate,EffectiveFrom,EffectiveTo
+8517.12,Smartphones / Mobile Devices,China,United States,0.25,2024-01-01,2026-12-31
+8517.12,Smartphones / Mobile Devices,Vietnam,United States,0.05,2024-01-01,2026-12-31
+8517.18,Other Transmitters / Telecom Receivers,China,United States,0.0,2024-01-01,2026-12-31
+8517.18,Other Transmitters / Telecom Receivers,Vietnam,United States,0.0,2024-01-01,2026-12-31
+3004.90,Pharmaceutical Packaged Medicaments,Netherlands,United States,0.02,2024-01-01,2026-12-31
+3004.90,Pharmaceutical Packaged Medicaments,Germany,United States,0.02,2024-01-01,2026-12-31
+0306.17,Frozen Warmwater Shrimps / Seafood,Brazil,United States,0.15,2024-01-01,2026-12-31
+0306.17,Frozen Warmwater Shrimps / Seafood,Vietnam,United States,0.08,2024-01-01,2026-12-31
+8708.29,Automotive Parts & Accessories,Japan,United States,0.025,2024-01-01,2026-12-31
+8708.29,Automotive Parts & Accessories,China,United States,0.25,2024-01-01,2026-12-31
+8471.30,Laptop Computers / Data Processing Machines,China,United States,0.1,2024-01-01,2026-12-31
+8471.30,Laptop Computers / Data Processing Machines,Vietnam,United States,0.02,2024-01-01,2026-12-31

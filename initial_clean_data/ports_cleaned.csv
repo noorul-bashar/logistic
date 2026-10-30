@@ -1,0 +1,16 @@
+PortID,PortName,Country,HandlingFee_USD,Capacity_TEU,Latitude,Longitude,NegativeHandlingFeeFlag,NegativeCapacityFlag,MissingHandlingFeeFlag,MissingCapacityFlag,InvalidLatitudeFlag,InvalidLongitudeFlag,Region,PortFullName,PortGroupKey,DuplicatePortGroupFlag,MasterPortID,PortClusterID,CapacityCategory,HandlingFeeCategory,UsedInLegsFlag,UnusedPortFlag
+P01,Port of Shanghai,China,850,45000000,31.2304,121.4737,False,False,False,False,False,False,Asia,"Port of Shanghai, China",port of shanghai|china,False,P01,P01,Mega,Medium,True,False
+P02,Port of Shenzhen,China,800,30000000,22.5431,114.0579,False,False,False,False,False,False,Asia,"Port of Shenzhen, China",port of shenzhen|china,False,P02,P02,Mega,Low,False,True
+P03,Port of Los Angeles,United States,1500,10000000,33.7432,-118.2673,False,False,False,False,False,False,North America,"Port of Los Angeles, United States",port of los angeles|united states,False,P03,LOS_ANGELES_LONG_BEACH,Medium,High,True,False
+P04,Port of Long Beach,United States,1450,9000000,33.7701,-118.1937,False,False,False,False,False,False,North America,"Port of Long Beach, United States",port of long beach|united states,False,P04,LOS_ANGELES_LONG_BEACH,Medium,High,True,False
+P05,Port of Rotterdam,Netherlands,1100,15000000,51.9244,4.4777,False,False,False,False,False,False,Europe,"Port of Rotterdam, Netherlands",port of rotterdam|netherlands,False,P05,P05,Large,Medium,True,False
+P06,Port of Hamburg,Germany,1200,9000000,53.5511,9.9937,False,False,False,False,False,False,Europe,"Port of Hamburg, Germany",port of hamburg|germany,True,P06,HAMBURG,Medium,Medium,True,False
+P07,Port of Da Nang,Vietnam,550,2000000,16.0544,108.2022,False,False,False,False,False,False,Asia,"Port of Da Nang, Vietnam",port of da nang|vietnam,False,P07,P07,Small,Low,True,False
+P08,Port of Ho Chi Minh,Vietnam,600,7000000,10.8231,106.6297,False,False,False,False,False,False,Asia,"Port of Ho Chi Minh, Vietnam",port of ho chi minh|vietnam,False,P08,P08,Medium,Low,True,False
+P09,Port of Singapore,Singapore,750,37000000,1.3521,103.8198,False,False,False,False,False,False,Asia,"Port of Singapore, Singapore",port of singapore|singapore,False,P09,P09,Mega,Low,False,True
+P10,Port of Tokyo,Japan,1000,5000000,35.6762,139.6503,False,False,False,False,False,False,Asia,"Port of Tokyo, Japan",port of tokyo|japan,False,P10,P10,Small,Medium,True,False
+P11,Port of Hamburg,Germany,1200,9000000,53.5511,9.9937,False,False,False,False,False,False,Europe,"Port of Hamburg, Germany",port of hamburg|germany,True,P06,HAMBURG,Medium,Medium,False,True
+P12,Port of Vancouver,Canada,1300,4000000,49.2827,-123.1207,False,False,False,False,False,False,North America,"Port of Vancouver, Canada",port of vancouver|canada,False,P12,P12,Small,High,True,False
+P13,Port of Santos,Brazil,950,4500000,-23.9608,-46.3331,False,False,False,False,False,False,South America,"Port of Santos, Brazil",port of santos|brazil,False,P13,P13,Small,Medium,True,False
+P14,Port of Felixstowe,United Kingdom,1050,4000000,51.9632,1.3512,False,False,False,False,False,False,Europe,"Port of Felixstowe, United Kingdom",port of felixstowe|united kingdom,False,P14,P14,Small,Medium,False,True
+P15,Port of Antwerp,Belgium,1080,12000000,51.2194,4.4025,False,False,False,False,False,False,Europe,"Port of Antwerp, Belgium",port of antwerp|belgium,False,P15,P15,Large,Medium,False,True
